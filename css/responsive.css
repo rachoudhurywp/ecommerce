@@ -1,0 +1,28 @@
+/*  
+/*====================== Mobile Layout: 320px. ======================= */
+ @media only screen and (max-width:  767px) {
+	 
+	 .header-top{visibility:hidden; display:none;}
+	 .text,.dollar, .logo, .logo-section-btn{text-align:center;margin-top:10px;}
+	 .logo, .logo-section-btn{margin:20px 0px;} 
+	 .cart {margin-left: 46%;padding: 20px 0px;}
+	 .navbar-light .navbar-toggler{border:2px solid red; background: #fff;}
+	 .hero-title{min-height:900px;padding: 50px 0px 0px 50px;}
+	 .hero-img{bottom:0px;}
+	 .single-product-01, .single-product-02{margin-bottom:20px;}
+	 .nav-tabs .nav-link{padding:8px;margin:20px 0px;}
+	 .footer-top{padding:50px;}
+	 .footer-top h6, .footer-top img{margin-bottom:30px;}
+	 footer{text-align:center;}	 
+	 .submit{right:14%;}
+	 .footer-left{margin:30px 0px;}
+	 .login-info{width:95%;}
+	 .full-view-text-tabs>.nav-tabs .nav-item .show .nav-link, .full-view-text-tabs>.nav-tabs .nav-link{ margin-right:5px;  padding: 16px 22px;}
+	 .address{margin-bottom:20px;}
+	 .review-details{padding-left:20px;}
+	 .search-top select{margin-right:10px;margin-bottom:20px;}
+	 .payment-from{margin:20px 0px;}
+	 
+	 
+	 
+ }
